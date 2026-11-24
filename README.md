@@ -68,7 +68,7 @@ software-development/
 ### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Megha486/crime-public-safety-data-analysis
 ```
 
 ### Step 2: Navigate into the project directory
