@@ -11,6 +11,11 @@ This module creates three visualizations using Matplotlib:
 
 from pathlib import Path
 
+import matplotlib
+
+# Use a non-interactive backend for chart generation
+matplotlib.use("Agg")
+
 import matplotlib.pyplot as plt
 import pandas as pd
 
